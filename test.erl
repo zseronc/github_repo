@@ -3,3 +3,6 @@
 
 start() ->
   good.
+
+start2() ->
+    good.
